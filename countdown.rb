@@ -23,7 +23,7 @@ end
 
 def g
   f(5)
-  puts @uvw
+  puts uvw
 end
 
 g
