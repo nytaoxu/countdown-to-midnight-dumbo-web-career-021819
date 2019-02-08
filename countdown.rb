@@ -15,14 +15,12 @@ def countdown_with_sleep(number)
   end
 end
 
-
+def f(x)
+  puts x
+end
 
 def g
   f(5)
 end
 
 g
-
-def f(x)
-  puts x
-end
