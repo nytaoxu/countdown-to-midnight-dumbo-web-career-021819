@@ -19,7 +19,7 @@ def f(x)
   puts x
 end
 
-uvw = 15
+@uvw = 15
 
 def g
   f(5)
