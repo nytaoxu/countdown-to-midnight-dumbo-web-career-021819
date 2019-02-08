@@ -19,8 +19,11 @@ def f(x)
   puts x
 end
 
+uvw = 15
+
 def g
   f(5)
+  puts uvw
 end
 
 g
